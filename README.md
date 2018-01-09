@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+I thrive off of mountain dew and sandwiches;
